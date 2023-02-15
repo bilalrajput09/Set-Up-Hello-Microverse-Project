@@ -23,7 +23,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-I used VS code to create the project and files needed plus used Git and GitHub to complete the tasks. 
+I used VS code to create the project and files needed plus used Git and GitHub to complete the tasks.
 
 ### Key Features <a name="key-features"></a>
 
@@ -43,7 +43,7 @@ In order to run this project you need to clone the repo using git bash and run t
 
 ## 👥 Authors <a name="authors"></a>
 
- Bilal Ahmed
+Bilal Ahmed
 
 👤 **Author1**
 
@@ -78,13 +78,13 @@ Look at what I did !! Your support matters a lot
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for giving us the chance to build a better world.
-I would like to appreciate my team members. 
+I would like to appreciate my team members.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./License) licensed.
+This project is [MIT](/License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
