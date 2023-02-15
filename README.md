@@ -83,7 +83,7 @@ I would like to appreciate my team members.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License"></a>
 
 This project is [MIT](./License) licensed.
 
